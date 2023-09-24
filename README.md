@@ -8,6 +8,6 @@
 - 📚 Estudio la carrera de `Full Stack Dev` en `Coderhouse`.
 - 🎶 Amante de la musica && de los animales 🐾💕
 - Mi lugar? AR 🌎
-- if(!badVibes) return "Good Life 🤙"
-
+- Antiestres = ⚽️
+- if (!badVibes) return "Good Life 🤙"
 
