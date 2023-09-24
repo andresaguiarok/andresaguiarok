@@ -10,6 +10,8 @@
 - 🌎 AR mi lugar 
 - ⚽️ = Antiestres
 
+
 ```javascript 
 if (!badVibes) return "Good Life 🤙" 
 ```
+
