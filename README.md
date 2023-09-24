@@ -5,9 +5,9 @@
 
 > Soy Andres y me gusta los desafios!
 
-- 📚 Estudio la carrera de `Full Stack Dev` en `Coderhouse`.
+- 📚 Estudio la carrera de `Full Stack Dev` en `Coderhouse`
 - 🎶 Amante de la musica && de los animales 🐾💕
-- Mi lugar? AR 🌎
-- Antiestres = ⚽️
-- if (!badVibes) return "Good Life 🤙"
+- 🌎 AR mi lugar 
+- ⚽️ = Antiestres
+- <p color="blue"> if (!badVibes) return "Good Life 🤙" </p> 
 
