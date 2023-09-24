@@ -9,5 +9,5 @@
 - 🎶 Amante de la musica && de los animales 🐾💕
 - 🌎 AR mi lugar 
 - ⚽️ = Antiestres
-- <p color="blue"> if (!badVibes) return "Good Life 🤙" </p> 
+- <p style="color: blue"> if (!badVibes) return "Good Life 🤙" </p> 
 
